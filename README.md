@@ -28,7 +28,7 @@ This course provides step-by-step instructions to build a fully functional blog 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/YourUsername/NodeJs-Blog-Course.git
+   git clone https://github.com/nhathao512/Blog-Course.git
    ```
 
 2. **Navigate to the project directory:**
