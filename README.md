@@ -74,9 +74,8 @@ This course provides step-by-step instructions to build a fully functional blog 
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License.
+## ⚖️ License
+This project is licensed under the [License](LICENSE.md).
 
 ## Additional Resources
 
