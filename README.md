@@ -1,4 +1,4 @@
-# 🧑‍💻Blog Course with NodeJs 
+# Blog Course with NodeJs 
 
 This project is a comprehensive guide to building a blog application using Node.js, Express, and MongoDB. The course is structured into multiple parts, each focusing on different aspects of development, from setting up the server to deploying the application.
 
@@ -74,7 +74,7 @@ This course provides step-by-step instructions to build a fully functional blog 
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-## ⚖️ License
+## License
 This project is licensed under the [License](LICENSE.md).
 
 ## Additional Resources
